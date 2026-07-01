@@ -2,3 +2,4 @@ this is my local file
 this is practice of init command.
 this is my coding line.
 today i practiced an hour
+this is the practice file
