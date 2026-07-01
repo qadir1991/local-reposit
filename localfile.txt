@@ -5,3 +5,4 @@ today i practiced an hour
 this is the practice file
 i want to practice more to understand the main concept of git and github.
 first i did not know about the cloning file.
+Now I know how to clone the repo.
